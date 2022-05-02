@@ -1,0 +1,8 @@
+-d ..\build
+engine\CharacterClass.java
+engine\CharacterSheet.java
+engine\Engine.java
+engine\Race.java
+gui\Main.java
+gui\RaceScreen.java
+gui\RollScreen.java
